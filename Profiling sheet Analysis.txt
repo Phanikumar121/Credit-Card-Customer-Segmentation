@@ -1,0 +1,33 @@
+  
+I need to gain more practical expereince to analyse it in a much better way.
+In case of minor mistakes please accept this submission.This is my best interpretation.
+
+I have selected variable on the basis of higher loadings and variable that explains most of the variables.
+
+
+       For this particular case I would go with 5 cluster solution as it best explains my data.
+   
+    1) In segment 1, customers use all the services provided by the credit card company.
+       But they seem to make very less advance payments they seem to make only purchases
+       with the card as a result they will be maintaining very heavy balance.They are platinum users for the company.
+       They are cash cows to the company.
+  
+    2) In segment 2, customers are quite opposite to the 1st segment. they use the credit card
+       only to make advance purchase transactions. They use other services very rarely.These customers 
+       should be provided with promotional packages.These customers seems to be new customers to the 
+       company as the tenure is very less.
+
+    3) In segment 3, customers are not so avid users of the credit card .They use the card very limitedly.
+       They maintain good balance but they dont use it extensively.They seem to save money.
+
+    4) In segment 4, customers seems to use the card for making payments for purchase instalments.These 
+       customers maintain less balance when compared to other segments.
+       They are new customers to the company.Campaigns should be conducted for these customers by describing
+       the various services offered by the company and discounts should be given where ever necessary.
+
+    5) In segment 5, customers are similar to segment 3 where they only use the credit card to make advance
+       purchase transactions.Their tenure is very less when compared to other segments.
+       They are like gold users to the company.They dont use other services provided by the company regularly as they are
+       new customers.Promotional offers and regular discounts should be given to these customers so that they will gain loyalty
+       of the brand and they may reffer their friends or colleagues to this credit card service if they like the
+       services offered by the company.
